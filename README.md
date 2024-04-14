@@ -1,4 +1,4 @@
-Facebook Clone Live Linl-- https://facebookclone168.netlify.app/
+Facebook Clone Live Linl-- https://socialbook168.netlify.app/
 
 This is a simple implementation of a Facebook clone using HTML, CSS, and JavaScript. It includes basic features such as posts, profiles, timelines, friend.
 
@@ -16,7 +16,7 @@ README.md: this file
 
 Built With
 
-https://facebookclone168.netlify.app/
+https://socialbook168.netlify.app/
 
 HTML - the markup language used for the structure
 CSS - the stylesheet language used for the design
